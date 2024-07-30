@@ -1,6 +1,10 @@
 
 # Comando
 
+- `Git merge "branch"`: (dentro da branch misture com outra branch, aparecera problemas de conflitos, caso não haja ele faz a mesclagem das branches)
+
+
+
 # Conteúdo da Aula
 
 - Definição o que são conflitos
