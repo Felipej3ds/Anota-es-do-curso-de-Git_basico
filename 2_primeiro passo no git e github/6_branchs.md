@@ -7,7 +7,6 @@ git checkout (utilizada para alternar entre branches, Criar um novo branch e alt
 
 git clone (URL):  (clona um repositório)
 
-
 git branch: (lista as branches)
 
 git branch -d (nome branch): (exclui uma branch)
