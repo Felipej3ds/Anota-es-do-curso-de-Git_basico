@@ -18,3 +18,7 @@ Falando sobre a criação de repositórios locais existem duas formas de obter r
 - git config --global user.name "nome"
 - git config --global user.email "email"
 - git remote set-url origin (url_repositório): Altera a referência para um repositório remoto, ou seja, um repositório hospedado em um servidor externo
+- git remote add origin (url): conecta o git local com um determinado repositoria remoto 
+	git remote -v : Verifique se o repositório foi configurada corretamente
+	git command 
+- git diff: (Ver quais alterações foram feitas )
