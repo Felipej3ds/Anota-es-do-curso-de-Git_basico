@@ -2,12 +2,11 @@
 # lista
 
 git checkout (utilizada para alternar entre branches, Criar um novo branch e alternar para ele, Descartar mudanças em arquivos, Visualizar uma versão específica de um arquivo, Alternar entre diferentes estados (commits)) 
+	- git checkout -b "nome da nova branch" : (permite criar uma nova branch)
+	- git checkout -b (nome branch): (passa o ponteiro do histórico comandos git para outra branch)
 
 git clone (URL):  (clona um repositório)
 
-git checkout -b "nome da nova branch" : (permite criar uma nova branch)
-
-git checkout -b (nome branch): (passa o ponteiro do histórico comandos git para outra branch)
 
 git branch: (lista as branches)
 
