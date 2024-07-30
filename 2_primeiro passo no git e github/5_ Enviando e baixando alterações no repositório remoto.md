@@ -9,8 +9,3 @@ git push -u origin (nome da branch): (envia uma branch)
 	só caso já tenha usado uma vez poderá digitar apenas git push
 	git push --set-upstream origin (nome da branch): (outra maneira de fazer a mesma coisa)
 
-
-
-git pull  -> git fetch + git merge: (no caso o git pull serve para trazer alterações do repositório remoto para o local)
-
-git clone (URL):  (clona um repositório)
