@@ -19,6 +19,10 @@ git merge (nome da branch): mescla duas branches
 
 git remote add origin (URL) : ("conecta" o seu git com um repositório remoto)
 
+git remote remove (nome do repositório): (remove o endereço do repositório remoto do meu repositório local)
+
+git push --set-upstream (nome_remote) main: (push the current branch and set the remote as upstream)
+
 git remote get-url origin: (descobrir o endereço do repositório)
 
 git remote add outro-nome (URL do outro repositoria) : (adicionar um segundo controle remoto para o outro repositório que deseja copiar arquivos. Isso não afetará o controle remoto existente.)
