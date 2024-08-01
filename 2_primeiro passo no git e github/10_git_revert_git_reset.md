@@ -1,4 +1,7 @@
 
+# Comandos:
+	- git revert  (Hash) --no--edit
+	- git reset (hash) --modo
 # Aula git revert e git reset
 
 - Reverter ou desfazer alterações no código fonte
